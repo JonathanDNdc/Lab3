@@ -1,2 +1,2 @@
-# Laboratorio #2
-Desarrollo de aplicaciones web. Laboratorio 2
+# Laboratorio #3
+Desarrollo de aplicaciones web. Laboratorio 3
